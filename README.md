@@ -29,7 +29,7 @@
         }
 
         article {
-            background-color: #1E90FF;
+            background-color: #fcd34d;
             border-radius: 15px;
             padding: 25px;
             display: inline-block;
@@ -51,7 +51,7 @@
 
         footer {
           text-align: center;
-      background-color: #4682B4;
+      background-color: #6495ED;
       color: #fcd34d;
       padding: 25px;
       border-top: 1px solid 
@@ -59,7 +59,7 @@
         }
 
         .details {
-            background-color: rgba(255, 255, 255, 0.25);
+            background-color: #737CA1;
             border-radius: 12px;
             padding: 15px;
             margin-top: 15px;
@@ -101,8 +101,7 @@
             </section>
 
             <section>
-                <img src="thessa.jpg" alt="Christmas Party Poster">
-            </section>
+                <img src="thessa.jpg" alt="Christmas Party">
 
             <section>
                 <p>🎁 Kindly prepare an exchange gift worth ₱150.00.</p>
