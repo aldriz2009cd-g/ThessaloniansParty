@@ -101,7 +101,7 @@
             </section>
 
             <section>
-                <img src="https://scontent.fmnl30-3.fna.fbcdn.net/v/t39.30808-6/552951285_122120722094966554_509846768049596260_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHs0mtSFJdqvJRMExUIafqYbcjbQ6Hi1JttyNtDoeLUm6Zt0KQ8IoiLUVlW4QYYf5cyd1SPLfl2QpriPUrbG6wh&_nc_ohc=l_-9iqEXoA0Q7kNvwFT20AP&_nc_oc=Adl4scnPfdyCuv6ji-HzaI5yt2AhPgaupKZlz3K_koQSezlvHmmbdUq0wGXBXvMjI40&_nc_zt=23&_nc_ht=scontent.fmnl30-3.fna&_nc_gid=x3AiVHOeCe_z67fVJkuVKw&oh=00_Afc5IzmQlxMn5hyi9_wTgEt_cZxE-mbfU5Zv98wTvCSibg&oe=6901752F" alt="Christmas Party Poster">
+                <img src="thessa.jpg" alt="Christmas Party Poster">
             </section>
 
             <section>
