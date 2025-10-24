@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +8,7 @@
     <style>
         body {
             font-family: 'Times New Roman', serif;
-            background: linear-gradient(to bottom, #8b0000, #ffb6b6);
+            background-color: #566D7E;
             color: #fff;
             text-align: center;
             margin: 0;
@@ -16,7 +17,7 @@
 
         header {
             background-color: #1E90FF;
-            padding: 25px;
+            padding: 20px;
         }
 
         h1 {
@@ -66,11 +67,11 @@
         }
 
         h2, h3 {
-            color: #1E90FF;
+            color: #ff6d1e;
         }
 
         p {
-            color:#1E90FF;
+            color:#ff6d1e;
         }
     </style>
 </head>
@@ -78,34 +79,34 @@
 
     <header>
         <h1>🎄 11 Thessalonians Christmas Celebration 2025 🎄</h1>
-        <p>“A Season of Joy, Unity, and Gratitude”</p>
+        <p>“A Moment of Happiness and Bondings”</p>
     </header>
 
     <main>
         <article>
             <section>
                 <h2>Formal Invitation</h2>
-                <p>The class of <strong>11 Thessalonians</strong> cordially invites you to our annual Christmas Celebration. 
-                Let us come together to honor the spirit of Christmas through fellowship, joy, and thanksgiving.</p>
+                <p>The class of <strong>11 Thessalonians</strong> strongly invites you to this year's Christmas Gathering. 
+                Let us come together to warm the welcome, laughs and unforgettable things we share during this moment</p>
             </section>
 
             <section class="details">
-                <h3>📅 Date and Time</h3>
-                <p>December 18, 2025 | 3:00 PM – 8:00 PM</p>
+                <h3> Date and Time</h3>
+                <p>December 18, 2025 | 4:00 PM - 8:00 PM</p>
 
-                <h3>📍 Venue</h3>
+                <h3> Venue</h3>
                 <p>5th Floor, Second Room</p>
 
-                <h3>👗 Attire</h3>
-                <p>Red, Green, or White (Christmas Colors)</p>
+                <h3> Attire</h3>
+                <p>Red, Green, Or White (Optional)</p>
             </section>
 
             <section>
                 <img src="thessa.jpg" alt="Christmas Party">
 
             <section>
-                <p>🎁 Kindly prepare an exchange gift worth ₱150.00.</p>
-                <p>Let us conclude the year with gratitude, laughter, and shared happiness.</p>
+                <p>🎁 Kindly prepare an exchange gift worth ₱200.00</p>
+                <p>Let us finish this year with camaraderie and lasting seconds to spend time with our classmates.</p>
             </section>
         </article>
     </main>
